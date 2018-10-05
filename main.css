@@ -1,0 +1,56 @@
+body{
+    background-color: #e5ffde;
+    color: #14080e;
+    
+    text-align: center;
+	
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Volkhov', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+	height: 100 px;
+  	line-height: 100px;
+  	white-space: nowrap;	
+
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Volkhov', serif; 
+    font-family: 'Playfair Display SC', serif;
+}
+
+article {
+	border:.5rem solid #e5ffde;
+	border-radius: 20px;
+}
+
+.flex-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 300px;
+}
+
+#portfolio {
+	background-color: #ef2d56;
+}
+
+#about {
+	background-color: #ed7d3a;
+}
+
+#skills {
+	background-color: #5eb1bf;
+}
+
+#contact {
+	background-color: #8cd867;
+}
+
+footer {
+	height: 25px;
+	line-height: 25px;
+  	white-space: nowrap;
+    vertical-align: bottom;
+    float: right;
+}
